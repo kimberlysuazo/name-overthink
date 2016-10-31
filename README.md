@@ -1,17 +1,8 @@
-##Workflow:
+## Description
+----
+NameOverthink is a stripped down clone of the ever-popular StackOverflow.
 
-  Models/Migrations:
-    - Associations
-    - Creating Tables
+NameOverthink was made using Ruby combined with a lightweight Sinatra web app for the back-end and jQuery/AJAX for fluid front-end interactions.
 
-  Seeds:
-    
-  Sessions:
-
-  Controllers:
-
-  Views:
-
-
-
-
+### contributors
+- Soren Zeliger, Kimberly Suazo, Amanda Hinchey, and Neel Gupta
